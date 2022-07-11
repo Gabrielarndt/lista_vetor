@@ -1,3 +1,8 @@
+nome   nome.pppend(valor)     append é usado para adicionar um valor na variavez nome como um tipo de pasta
+
+
+
+
 # nomes = []   #posto colocar valores aqui dentro se eu quiser ai os proximos valores que surgir vo surgir depois desse
 
 # for i in range(3):
