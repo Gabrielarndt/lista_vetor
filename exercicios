@@ -151,7 +151,18 @@
 # elementos cada. Imprimir todos os conjuntos.
 
 
+vetor = 0
+armazem = 0
 
+for i in range(5): 
+    numeros = []
+    print (f"{i + 1}° conjunto")
+
+    for i in range(5):      
+        vetor = int(input(f"Digite o {i + 1}° numero: "))
+        armazem = vetor**2
+        numeros.append(armazem)
+    print (numeros)
 
 
 
